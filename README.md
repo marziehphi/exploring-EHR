@@ -1,2 +1,2 @@
-# exploring-EHR
-Case – Exploring Electronic Health Records
+# exploring-EHR Solution
+> Case – Exploring Electronic Health Records
